@@ -1,4 +1,9 @@
-### EMS Bus Level Shifter
+### EMS Bus Level Shifter PCB
+
+
+<img src="https://github.com/Th3M3/test/raw/master/v1/schaltplan.png">
+
+##### Stückliste:
 
 | Bez.| Typ        | Bauform  | Reichelt.de Bezeichnung                         | Artikel-Nr.       |
 | --- | ---------- | -------- | ------------------------------------------------ | ----------------- |
@@ -33,7 +38,7 @@
 | T1  | BC847B     | SOT-23   | Bipolartransistor, NPN, 45V, 0,1A, 0,25W, SOT-23 | BC 847B INF       |
 
 ---
-Changelog:
+##### Changelog:
 - v2:
    * verbesserte Teileplazierung auf der Platine
    * breitere Leiterbahnen an der Thermal Pads
