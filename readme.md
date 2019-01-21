@@ -1,7 +1,7 @@
 ### EMS Bus Level Shifter PCB
 
 
-<img src="https://github.com/Th3M3/test/raw/master/v1/schaltplan.png">
+<img src="https://github.com/Th3M3/test/raw/master/v1/img/schaltplan.png">
 
 ##### Stückliste:
 
