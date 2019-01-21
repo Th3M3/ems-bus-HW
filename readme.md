@@ -3,6 +3,8 @@
 
 <img src="https://github.com/Th3M3/test/raw/master/v1/img/schaltplan.png">
 
+<img src="https://github.com/Th3M3/test/raw/master/v1/img/pcb1.jpg" width=32% hspace=5><img src="https://github.com/Th3M3/test/raw/master/v1/img/pcb2.jpg" width=32% hspace=5><img src="https://github.com/Th3M3/test/raw/master/v1/img/pcb3.jpeg" width=32% hspace=5>
+
 ##### Stückliste:
 
 | Bez.| Typ        | Bauform  | Reichelt.de Bezeichnung                         | Artikel-Nr.       |
